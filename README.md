@@ -1,4 +1,4 @@
-3 MPPL yang mewakili klasik maupun agile
+3 MPPL yang mewakili agile, Waterfall, dan Prototyping
 
 ## 1. Agile
 
